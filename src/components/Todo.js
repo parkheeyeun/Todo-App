@@ -46,7 +46,9 @@ export default function Todo({ id, name, completed, editTask, deleteTask, toggle
                         </div>
                     </label>
                     <label
-                        class="mt-px cursor-pointer select-none font-light text-gray-700 peer checked:line-through"
+                        class={`mt-px cursor-pointer select-none font-light text-gray-700 ${
+                            completed ? 'line-through' : ''
+                          }`}
                         for={`check-${id}`}>
                         {name}
                     </label>
