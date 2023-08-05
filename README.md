@@ -20,4 +20,4 @@ git Deploy
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   
-  ++ 맨위에 "homepage":"레포지토리 주소" 추가 
+  ++ 맨위에 "homepage":"레포지토리 주소" 추가  
