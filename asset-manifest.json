@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/parkheeyeun/Todo-App.git/static/css/main.032e11eb.css",
+    "main.js": "/parkheeyeun/Todo-App.git/static/js/main.38df094f.js",
+    "static/js/787.2843ca88.chunk.js": "/parkheeyeun/Todo-App.git/static/js/787.2843ca88.chunk.js",
+    "index.html": "/parkheeyeun/Todo-App.git/index.html",
+    "main.032e11eb.css.map": "/parkheeyeun/Todo-App.git/static/css/main.032e11eb.css.map",
+    "main.38df094f.js.map": "/parkheeyeun/Todo-App.git/static/js/main.38df094f.js.map",
+    "787.2843ca88.chunk.js.map": "/parkheeyeun/Todo-App.git/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.032e11eb.css",
+    "static/js/main.38df094f.js"
+  ]
+}
