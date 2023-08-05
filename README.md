@@ -9,6 +9,7 @@ git Deploy
 - setting으로 들어가서 pages탭 클릭
 - Branch에서 master로 변경후 save
 - 디플로이 완료
+- 내용 변경후 다시 배포시 npm run deploy
 - ReadMe파일이 뜨는 경우 
   ++ pakage.json에서 script에 아래 코드 작성
     "predeploy": "npm run build",
