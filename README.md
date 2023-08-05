@@ -7,7 +7,7 @@ git에 업데이트하기
 gh-pages생성하여 배포하기
 - master가 아닌 따로 branch를 생성하고싶은경우
 - npm install gh-pages로 gh-pages 생성
-- git add하고 git push후 npm run deploy 
+- git add하고 git push origin gh-pages후 npm run deploy 
 
 git Deploy
 - github에서 배포하고 싶은 레포지토리로 이동
